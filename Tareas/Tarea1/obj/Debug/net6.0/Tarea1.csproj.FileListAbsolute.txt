@@ -1,0 +1,14 @@
+C:\Users\ESTUDIANTE\source\repos\TareasCsharp\Tareas\Tarea1\obj\Debug\net6.0\Tarea1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESTUDIANTE\source\repos\TareasCsharp\Tareas\Tarea1\obj\Debug\net6.0\Tarea1.AssemblyInfoInputs.cache
+C:\Users\ESTUDIANTE\source\repos\TareasCsharp\Tareas\Tarea1\obj\Debug\net6.0\Tarea1.AssemblyInfo.cs
+C:\Users\ESTUDIANTE\source\repos\TareasCsharp\Tareas\Tarea1\obj\Debug\net6.0\Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\source\repos\TareasCsharp\Tareas\Tarea1\bin\Debug\net6.0\Tarea1.exe
+C:\Users\ESTUDIANTE\source\repos\TareasCsharp\Tareas\Tarea1\bin\Debug\net6.0\Tarea1.deps.json
+C:\Users\ESTUDIANTE\source\repos\TareasCsharp\Tareas\Tarea1\bin\Debug\net6.0\Tarea1.runtimeconfig.json
+C:\Users\ESTUDIANTE\source\repos\TareasCsharp\Tareas\Tarea1\bin\Debug\net6.0\Tarea1.dll
+C:\Users\ESTUDIANTE\source\repos\TareasCsharp\Tareas\Tarea1\bin\Debug\net6.0\Tarea1.pdb
+C:\Users\ESTUDIANTE\source\repos\TareasCsharp\Tareas\Tarea1\obj\Debug\net6.0\Tarea1.dll
+C:\Users\ESTUDIANTE\source\repos\TareasCsharp\Tareas\Tarea1\obj\Debug\net6.0\refint\Tarea1.dll
+C:\Users\ESTUDIANTE\source\repos\TareasCsharp\Tareas\Tarea1\obj\Debug\net6.0\Tarea1.pdb
+C:\Users\ESTUDIANTE\source\repos\TareasCsharp\Tareas\Tarea1\obj\Debug\net6.0\Tarea1.genruntimeconfig.cache
+C:\Users\ESTUDIANTE\source\repos\TareasCsharp\Tareas\Tarea1\obj\Debug\net6.0\ref\Tarea1.dll
